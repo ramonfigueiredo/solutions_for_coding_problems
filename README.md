@@ -1,5 +1,5 @@
 # Programming questions and solutions in C, C++, and Java
-===========================
+============================================================
 
 ## Contents
 1. [Arrays and Strings](#arrays_and_strings)
