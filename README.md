@@ -1,4 +1,4 @@
-Programming questions and solutions in C, C++, and Java
+Solutions for coding problems
 ============================================================
 
 ## Contents
