@@ -50,7 +50,7 @@ public class IsUnique {
      * 1. Compare every character of the string to every other character of the string. This will take O(n^2) time and O(1) space.
      * 
      * 2. If we are allowed to modify the input string, we could sort the string in O(n log(n)) time and then 
-     * linearly check the string for neighboring characters that are identical. Careful, thoughÇ many sorting algorithms take up extra space.
+     * linearly check the string for neighboring characters that are identical. Careful, though: many sorting algorithms take up extra space.
      * 
      * These solutions are not as optimal in some respects but might be better depending on the constraints of the problem.
      */
